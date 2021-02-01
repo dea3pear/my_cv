@@ -1,1 +1,6 @@
-# my_cv
+# My CV
+## Vārds Uzvārds Fotogrāfija
+Arsēnijs Timofejevs
+
+
+## Izglītība
