@@ -11,7 +11,7 @@ Pamatizglītība - Rīgas Austrumu vidusskola(2011-2020)
 Vidējā izglītība - Rīgas Valsts tehnikums(2020-Pašreize) 
 
 ## Valodas
-MĀTAS VALODA - Krievu valoda
+MĀTES VALODA - Krievu valoda
 CITAS VALODAS:
 Latviešu valoda
 Angļu valoda
